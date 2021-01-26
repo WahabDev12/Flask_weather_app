@@ -13,3 +13,5 @@ pip install -r requirements.txt
 
 
 ```
+
+![GitHub Logo](/images/logo.png)
