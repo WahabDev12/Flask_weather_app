@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: #292b2c;
+}
+
+.title{
+    color:#f7f7f7;
+
+}
+
+.close{
+    float:right;
+    color:#292b2c;  
+    font-size:15px;
+    cursor:pointer;
+}
+
+@media(max-width:610px){
+    .open{
+        text-align: center;
+        font-size:25px;
+        font-weight:400;
+
+    }
+    .box{
+        display: flex;
+        justify-content: center;
+    }
+}
